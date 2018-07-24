@@ -1,1 +1,1 @@
-# mfourExcercise
+Demo iOS application that displays an image gallery in grid using the imgur API
